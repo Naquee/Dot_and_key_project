@@ -1,0 +1,108 @@
+#topnav{
+    width: 1000%;
+    /* height: 30px; */
+    background-color: rgb(31, 29, 29);
+    color: white;
+    text-align: center;
+    /* padding-top: 0.5px; */
+    /* position: fixed; */
+
+}
+
+#secondiv{
+    width: 100%;
+    height: 200px;
+    /* border:  1px solid blue; */
+    margin: auto;
+    /* position: fixed; */
+    display: flex;
+}
+#menue{
+    margin-left: 20px;
+}
+#img{
+    margin-left: 350px;
+}
+#search>input{
+    margin-left: 50px;
+    width: 200px;
+    height: 30px;
+    margin-top: 10px;
+}
+#bag{
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 30px;
+    width: 50px;
+}
+#user{
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 60px;
+    width: 60px;
+    color: black;
+}
+#loginForm{
+    width: 30%;
+    /* border:  1px solid red; */
+    margin: auto;
+    align-items: center;
+    /* margin-left: 200px; */
+    padding-left: 200px;
+    
+   
+}
+#fb{
+    width: 300px;
+    height: 40px;
+    margin-bottom: 10px;
+    background-color: #284f9c;
+    /* color: white; */
+    font-size: 20px;
+    font-weight: bold;
+   
+
+}
+#google{
+    width: 300px;
+    height: 40px;
+    margin-bottom: 10px;
+    background-color:#d35500;
+    /* color: white; */
+    font-size: 20px;
+    font-weight: bold;
+    /* background-color: black; */
+   
+
+}
+#email{
+    width: 300px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+#pass{
+    width: 300px;
+    height: 40px;
+    margin-bottom: 10px;
+   
+}
+
+#pss{
+    display: flex;
+}
+#pss>p:last-child{
+    margin-left: 190px;
+
+}
+#btn{
+    width: 310px;
+    height: 40px;
+    margin-bottom: 10px;
+    background-color: #544d4f;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+#para{
+    font-size: 18px;
+}

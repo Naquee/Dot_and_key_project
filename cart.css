@@ -1,0 +1,22 @@
+#container{
+    width: 60%;
+    /* height: 200px; */
+    border: 1px solid red;
+    float: right;
+}
+div>a>button{
+    background-color: rgb(223, 43, 73);
+    color: wheat;
+    cursor: pointer;
+    margin-bottom: 20px;
+    width: 100px;
+    height: 30px;
+    font-weight: 600;
+    
+}
+#removebtn{
+    background-color: red;
+    color: white;
+    /* gap: 10px; */
+    margin: 10px;
+}

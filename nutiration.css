@@ -1,0 +1,137 @@
+#topnav{
+    width: 100%;
+    /* height: 30px; */
+    background-color: rgb(31, 29, 29);
+    color: white;
+    text-align: center;
+    /* padding-top: 0.5px; */
+    /* position: fixed; */
+
+}
+
+#secondiv{
+    width: 100%;
+    height: 200px;
+    /* border:  1px solid blue; */
+    margin: auto;
+    /* position: fixed; */
+    display: flex;
+}
+#menue{
+    margin-left: 20px;
+}
+#img{
+    margin-left: 350px;
+}
+#search>input{
+    margin-left: 50px;
+    width: 200px;
+    height: 30px;
+    margin-top: 10px;
+}
+#bag{
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 30px;
+    width: 50px;
+}
+#user{
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 60px;
+    width: 60px;
+    color: black;
+}
+
+/* below nav */
+
+/* #img{
+   width: 100%;
+} */
+#daily{
+   display: flex;
+}
+.lab>img{
+   width: 100%;
+}
+#labb>img{
+   width: 300px;
+   height: 500px;
+}
+#ingridents{
+   width: 100%;
+   /* height: 300px; */
+   /* border: 1px solid red; */
+   background-color: #8888ac;
+   display: flex;
+   
+}
+#ingridents>div>img{
+   /* width: 300px;
+   height: 600px; */
+   margin-left: 300px;
+
+}
+#ingridents>div>h1{
+   width: 40%;
+   font-size: 60px;
+   margin-left: 100px;
+   color: white;
+
+
+}
+#seek{
+   width: 100%;
+   /* height: 300px; */
+   /* border: 1px solid red; */
+   display: flex;
+  
+}
+.set{
+   width: 30%;
+   font-size: 19px;
+   /* text-align: center; */
+   margin-left: 100px;
+}
+#book>img{
+   width: 100%;
+}
+#pink{
+   /* height: 300px; */
+   width: 100%;
+   background-color:#f3c746 ;
+   display: flex;
+}
+
+button{
+   width: 100px;
+   height: 40px;
+   font-size: 20px;
+   background-color:#f3c746 ;
+  
+}
+#mela{
+   margin-top: 70px;
+   margin-left: 150px;
+}
+#mela>h1{
+   font-size: 60px;
+   font-style: italic;
+}
+#mela>h3{
+   font-size: 40px;
+   font-style: italic;
+}
+/* footer */
+
+#footer{
+   width: 100%;
+   /* border: 1px solid red; */
+   background-color: #414042;
+   color: white;
+   /* padding-left: 20px; */
+   display: flex;
+   gap: 300px;
+   padding-left: 20px;
+}
+

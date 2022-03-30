@@ -1,0 +1,55 @@
+body {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #keylogo{
+    width: 100%;
+
+  }
+  h1 {
+    margin-bottom: -20px;
+  }
+  .Deliver{
+      margin-bottom:20px;
+  }
+  #orderId {
+    color: 
+#5d776a;
+    /* margin-top: 40px; */
+    /* border:1px solid red; */
+  }
+  #ShopinG {
+    /* margin-top: 30px; */
+    border: none;
+    height: 60px;
+    background-color: 
+#5d776a;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  #ShopinG > a {
+    text-decoration: none;
+    font-Size:18px;
+    color: white;
+  }
+  .divcontent {
+    text-align: center;
+    width: 40%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+      rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+    height: 600px;
+  }
+  .orderGift {
+    width: 90%;
+    margin-left: 5%;
+    /* margin-top: 100px; */
+  }
+  .totalValueofcart {
+    color: 
+#5d776a;
+  }
+  .orderGifta {
+    margin-top: 30px;
+  }
