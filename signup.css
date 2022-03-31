@@ -44,7 +44,7 @@
 }
 #loginForm{
     width: 30%;
-    border:  1px solid red;
+    /* border:  1px solid red; */
     margin: auto;
     align-items: center;
     /* margin-left: 200px; */

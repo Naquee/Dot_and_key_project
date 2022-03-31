@@ -17,6 +17,7 @@ function signUpfun(){
     // console.log(userData);
 
     localStorage.setItem("userDetail",JSON.stringify(userData));
+    window.location.href="login.html"
 
 
 }

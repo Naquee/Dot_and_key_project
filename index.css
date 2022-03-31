@@ -261,3 +261,23 @@ text-decoration: none;
 font-size: 18px;
 padding-left: 50px;
 }
+@media all and (min-width:401px) and (max-width:900px){
+    #cintainer{
+        grid-template-columns: repeat(2,1fr);
+        grid-template-rows: repeat(2,auto);
+    }
+    /* .topbox{
+        grid-template-columns: repeat(1,1fr);
+        grid-template-rows: repeat(1,auto);
+    } */
+}
+/* @media all and (min-width:50px) and (max-width:400px){
+ .bootombox{
+        grid-template-columns: repeat(1,1fr);
+        grid-template-rows: repeat(4,auto);
+    }
+    .topbox{
+        grid-template-columns: repeat(1,1fr);
+        grid-template-rows: repeat(1,auto);
+    }
+} */
