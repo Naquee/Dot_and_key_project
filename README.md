@@ -32,7 +32,8 @@ Scientifically driven nutrition with precise ratios of the essentials for overal
 
 ![image](https://user-images.githubusercontent.com/100348982/161202323-4c05f8c8-e71d-4a88-b8a7-16c586b3508f.png)
 
-# Footer Part
 
+# Footer Part
+![image](https://user-images.githubusercontent.com/100348982/161202537-ced14718-1c95-4287-855c-12fdefa06f50.png)
 
 
