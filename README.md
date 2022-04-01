@@ -19,3 +19,6 @@ I hope all of you are doing good and safe. I am happy to share with you all that
 # Landing Page
 ![image](https://user-images.githubusercontent.com/100348982/161198822-a3d25816-981a-4551-a43a-3befd3dbe67d.png)
 
+# Create Account Page
+
+
