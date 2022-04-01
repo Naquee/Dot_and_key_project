@@ -27,4 +27,7 @@ I hope all of you are doing good and safe. I am happy to share with you all that
 ![image](https://user-images.githubusercontent.com/100348982/161201890-dcc72fbb-b506-4018-a4e2-abbd630554a2.png)
 # Choose payment option
 ![image](https://user-images.githubusercontent.com/100348982/161202086-631d79cf-5d6d-4d16-9ea8-f2f4d1396f50.png)
+# The Balance You Seek
+Scientifically driven nutrition with precise ratios of the essentials for overall wellbeing. No more, no less.
+
 
