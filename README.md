@@ -30,4 +30,6 @@ I hope all of you are doing good and safe. I am happy to share with you all that
 # The Balance You Seek
 Scientifically driven nutrition with precise ratios of the essentials for overall wellbeing. No more, no less.
 
+![image](https://user-images.githubusercontent.com/100348982/161202323-4c05f8c8-e71d-4a88-b8a7-16c586b3508f.png)
+
 
