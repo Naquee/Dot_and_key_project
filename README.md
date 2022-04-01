@@ -24,3 +24,6 @@ I hope all of you are doing good and safe. I am happy to share with you all that
 
 # Add to cart
 
+![image](https://user-images.githubusercontent.com/100348982/161201890-dcc72fbb-b506-4018-a4e2-abbd630554a2.png)
+# Choose payment option
+
