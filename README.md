@@ -36,10 +36,10 @@ Scientifically driven nutrition with precise ratios of the essentials for overal
 # Footer Part
 ![image](https://user-images.githubusercontent.com/100348982/161202537-ced14718-1c95-4287-855c-12fdefa06f50.png)
 
-# blog link
+# Blog link
 https://medium.com/@naqueealam99/key-and-dotwebsite-25e32a1c8e64
 
-# presentation video link
+# Presentation video link
 https://drive.google.com/file/d/1E8YzFeMpZEF6vhugZQ5O_ex366piLWmc/view?usp=sharing
 
 
